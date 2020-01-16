@@ -1,5 +1,5 @@
 import { Teste } from 'nativescript-teste';
-console.log(new Teste().message);
+// console.log(new Teste().message);
 import { Component } from "@angular/core";
 
 @Component({

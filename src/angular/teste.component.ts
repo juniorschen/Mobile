@@ -1,11 +1,16 @@
 import { Component } from "@angular/core";
 
 /* template: `
-  <app-bank-account
-    bankName="RBC"
-    account-id="4747">
-  </app-bank-account>
-` */
+  <Label text="MY TEST" class="my-test"></Label>
+` 
+styles: [
+  `
+  .my-test{
+    margin-top: 16dp;
+  }
+  `
+]
+*/
 @Component({
     selector: 'app-teste',
     templateUrl: './teste.component.html',

@@ -46,7 +46,7 @@
 	"license": "Apache-2.0",
 	"homepage": "https://github.com/amosjunior/nativescript-teste",
 	"devDependencies": {
-		"@angular/core": "^8.2.14",
+		"@angular/core": "^11.0.5",
 		"tns-core-modules": "^6.0.0",
 		"tns-platform-declarations": "^6.0.0",
 		"typescript": "~3.4.5",
@@ -56,7 +56,7 @@
 		"semver": "^5.6.0"
 	},
 	"dependencies": {
-		"@angular/core": "^8.2.14"
+		"@angular/core": "^11.0.5"
 	},
 	"bootstrapper": "nativescript-plugin-seed"
 }
